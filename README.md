@@ -4,8 +4,9 @@
 <h1 align="center">
     Andreas Lam
 </h1>
-<img src=https://github-readme-stats.vercel.app/api?username=andreaslam&hide=contribs,prs&show_icons=true&theme=transparent>
-<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=andreaslam>
+<h1 align="center">
+    Hello world! I am a...
+</h1>
 
 
 <p align="center">
