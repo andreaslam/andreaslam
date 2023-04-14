@@ -1,5 +1,5 @@
 <p align="center">
-    ![avatar](https://github.com/andreaslam/andreaslam/blob/main/Avatar.png)
+    <img src="Avatar.png" width="500" height="500">
 </p>
 <h1 align="center">
     Andreas Lam
