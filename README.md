@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="Avatar.png" width="938" height="938">
+    <img src="Avatar.png" width="400" height="400">
 </p>
 <h1 align="center">
     Andreas Lam
