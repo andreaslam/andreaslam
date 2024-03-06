@@ -1,5 +1,4 @@
 <div align="center">
-    <img src="Avatar.png" width="200" height="200" alt="Avatar">
     <h1>👋 Hey there, I'm Andreas Lam</h1>
     <p>
         <a href="https://git.io/typing-svg">
