@@ -2,7 +2,7 @@
 
 ###
 
-<div align="centre">
+<div align="center">
   <img src="https://avatars.githubusercontent.com/u/81166794?v=4" height="150" alt="profile picture" />
 </div>
 
