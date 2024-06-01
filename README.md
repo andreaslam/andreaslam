@@ -1,19 +1,16 @@
 ## Hi 👋! My name is Andreas.
 
-###
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/81166794?v=4" height="150" alt="profile picture" />
+  <a href="https://www.instagram.com/itsandreasl/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  </a>
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=andreaslam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andreaslam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph" />
 </div>
-
-###
-
-<div align="right">
-  <img src="https://avatars.githubusercontent.com/u/81166794?v=4" height="150" alt="profile picture" />
-</div>
-
-###
 
 ## Technologies
 
@@ -29,24 +26,14 @@
   <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="30" alt="rust logo" />
 </div>
 
-## Connect with me
-
-<div align="left">
-  <a href="https://www.instagram.com/itsandreasl/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-</div>
-
 ## Spotify Recently Played
 
 <div align="center">
   <a href="https://spotify-recently-played-readme.vercel.app/api?user=n7lcmnrof3xg759lc356x9gal&unique={true|1|on|yes}" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=n7lcmnrof3xg759lc356x9gal&unique={true|1|on|yes}" height="35" alt="spotify recently played" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=n7lcmnrof3xg759lc356x9gal&unique={true|1|on|yes}" height="150" alt="spotify recently played" />
   </a>
 </div>
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/andreaslam/andreaslam/output/snake.svg" alt="Snake animation" />
-
-###
