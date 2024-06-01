@@ -40,8 +40,8 @@
 ## Recently Played
 
 <div align="center">
-  <a href="https://spotify-recently-played-readme.vercel.app/api?user=n7lcmnrof3xg759lc356x9gal&unique={true|1|on|yes}" target="_blank">
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=n7lcmnrof3xg759lc356x9gal&unique={true|1|on|yes}" height="150" alt="spotify recently played" />
+  <a href="https://spotify-recently-played-readme.vercel.app/api?user=n7lcmnrof3xg759lc356x9gal" target="_blank">
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=n7lcmnrof3xg759lc356x9gal" height="150" alt="spotify recently played" />
   </a>
 </div>
 
