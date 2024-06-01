@@ -25,18 +25,15 @@
   <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="30" alt="rust logo"  />
 </div>
 
-###
 
 <div align="left">
   <a href="https://www.instagram.com/itsandreasl/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
-###
 <a href="https://spotify-recently-played-readme.vercel.app/api?user=n7lcmnrof3xg759lc356x9gal&unique={true|1|on|yes}" target="_blank">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=n7lcmnrof3xg759lc356x9gal&unique={true|1|on|yes}" height="35" alt="spotify recently played"  />
     </a>
-###
 
 <br clear="both">
 
