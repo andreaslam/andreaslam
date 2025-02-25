@@ -28,25 +28,3 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="30" alt="rust logo" />
 </div>
-
-## Connect with me
-
-<div align="left">
-  <a href="https://www.instagram.com/itsandreasl/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-</div>
-
-## Recently Played
-
-<div align="center">
-  <a href="https://spotify-recently-played-readme.vercel.app/api?user=n7lcmnrof3xg759lc356x9gal" target="_blank">
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=n7lcmnrof3xg759lc356x9gal" height="150" alt="spotify recently played" />
-  </a>
-</div>
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/andreaslam/andreaslam/output/snake.svg" alt="Snake animation" />
-
-###
